@@ -24,7 +24,7 @@ int main()
         }
     }
 
-    for (auto &&i : is_prime)
+    for (auto&&i : is_prime)
     {
         cout<<i<<" ";
     }
